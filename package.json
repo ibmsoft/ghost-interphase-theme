@@ -1,4 +1,30 @@
 {
-  "name": "Interphase",
-  "version": "1.0.0"
+  "name": "s0393",
+  "version": "1.0.0",
+  "description": "A ghost theme based off of [template.co/interphase](http://templated.co/interphase).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibmsoft/ghost-interphase-theme.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "s0393.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibmsoft/ghost-interphase-theme/issues"
+  },
+  "homepage": "https://github.com/ibmsoft/ghost-interphase-theme#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7"
+  }
 }

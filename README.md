@@ -12,3 +12,8 @@ Simply download this repository and place the content in your `/content/themes/`
 ### Mobile
 
 ![interphase](https://cloud.githubusercontent.com/assets/777823/7796251/a914b20a-02dd-11e5-8db9-04a29d42a134.png)
+
+
+<script src="//cdn.bootcss.com/jquery/2.2.3/jquery.js"></script>
+
+add gulp for zip js & css
